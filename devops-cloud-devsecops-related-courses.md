@@ -53,8 +53,8 @@
 13. Complete Databricks PySpark Bootcamp
     https://www.udemy.com/course/complete-databricks-pyspark-bootcamp-zero-to-hero/
 
-14. Databricks Certified Data Engineer Associate
-    https://www.udemy.com/course/databricks-certified-data-engineer-associate-ultimate-prep/
+# 14. Databricks Certified Data Engineer Associate
+#     https://www.udemy.com/course/databricks-certified-data-engineer-associate-ultimate-prep/
 
 15. Databricks Certified Data Engineer Professional
     https://www.udemy.com/course/databricks-certified-data-engineer-professional/
